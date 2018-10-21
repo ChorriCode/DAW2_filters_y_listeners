@@ -20,7 +20,7 @@ if(cookies !=null){
 %>
 <h3>Saludos <%=nombreUsuario %>, puedes cerrar la sessión.</h3>
 <br>
-<form action="LogoutServlet" method="post">
+<form action="logout" method="post">
 <input type="submit" value="Logout" >
 </form>
 </body>
