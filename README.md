@@ -1,4 +1,6 @@
 # DAW2_filters_y_listeners
+Javier Hdez. 2º DAW - IES El Rincón - Las Palmas de G.C.
+----------------------------------------------------------------------
 Información obtenida de:
 
 SERVLET Filter:
